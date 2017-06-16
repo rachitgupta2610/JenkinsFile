@@ -226,3 +226,7 @@ def getPomValue(text, element) {
   def matcher = text =~ '<' + element + '>(.+)</' + element + '>'
   matcher ? matcher[0][1] : null
 }
+
+
+
+TESTSTSTS
