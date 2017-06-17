@@ -1,5 +1,5 @@
 node {
-   stage 'Checkout'
+   stage 'Checkoutq'
 
       checkout scm
 
