@@ -1,7 +1,7 @@
 node {
    stage 'Checkout'
 
-      checkout scm123
+      checkout scm1233
 
    stage 'Build'
          sh "export" 
