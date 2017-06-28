@@ -1,5 +1,5 @@
 node {
-   stage 'Checkout'
+   stage 'Checkou'
 
       checkout scm12303
 
